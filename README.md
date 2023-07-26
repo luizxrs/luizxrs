@@ -7,7 +7,7 @@
 <div align="center"> 
   Sou um desenvolvedor e estudante full-stack, apaixonado por programação desde criança. Trabalho usando TypeScript, ReactJS com NextJS, Tailwind CSS ou Styled-Components, com experiência em criar interfaces modernas e interativas. Busco constantemente aprimorar minhas habilidades e colaborar em projetos inovadores. Estou pronto para fazer a diferença como um desenvolvedor web dedicado e cheio de energia.
   <br />
-  <a href="[https://portfolio-luizxrs.vercel.app/]" target="_blank">Dê uma olhada no meu portfólio!</a>
+  <a href="https://portfolio-luizxrs.vercel.app/" target="_blank">Dê uma olhada no meu portfólio!</a>
 </div>
 
 ## &nbsp;GitHub Stats
@@ -19,7 +19,7 @@
 
 ## &nbsp;Contato 
 <div align="left">
-  <a href="[https://linkedin.com/in/luizsouzadev]" target="_blank">
+  <a href="https://linkedin.com/in/luizsouzadev" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="mailto:lgustavoitp@gmail.com" target="_blank">
